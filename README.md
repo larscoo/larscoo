@@ -5,10 +5,9 @@
 
 ## I'm a Student & Hobby Developer!
 
-- 🔭 I am doing an apprenticeship as a computer scientist
+- 🔭 I am studying data science
 - 🌱 I’m currently learning how to code
 - 👯 I’m looking to learn as much as possible
-- 🥅 2023 Goals: Learn to code projects
 - ⚡ Fun fact: I love to listen to podcast
 
 ### Connect with me:
