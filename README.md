@@ -13,14 +13,14 @@
 ### Connect with me:
 
 [<img align="left" alt="larscools.ch" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="larscools | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="larscools14 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="larscools | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="larscools14 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="larscools | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="larscools14 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -30,18 +30,21 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
 <br />
+
+## Technical Skills
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26) 
+![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
+![](https://img.shields.io/badge/Code-mysql-informational?style=flat&logo=mysql&color=336791)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=336791)
+
 <br />
 
----
+## GitHub Stats
 
-<details>
+[![Lars’s GitHub stats](https://github-readme-stats.vercel.app/api?username=larscoo)](https://github.com/larscoo)
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larscoo&layout=compact)](https://github.com/larscoo)
 
-  <summary>:zap: YouTube</summary>
-  
-  [<img align="left" alt="My first YouTube Video" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][lastvideo]
-  [My first YouTube Video][lastvideo]
-  
-</details>
  
 [website]: https://www.larscools.ch
 [twitter]: https://twitter.com/larscools
