@@ -1,12 +1,15 @@
-### Hi there, I'm Lars Cools - aka [larscoo] 👋 
+### Hi there, I'm Lars Cools - aka [larscoo] 👋
 
-## I'm a Student & Hobby Developer!
+## ICT System Administrator & Data and Computational Science Student
 
-- 🔭 I am studying data and computational science @ FHGR
-- 🌱 I’m currently learning how to code
-- 👯 I’m looking to learn as much as possible
-- ⚡ Fun fact: I love to listen to podcast
+I'm an ICT System Administrator and currently studying Data and Computational Science at FHGR.  
+I’m interested in IT infrastructure, automation, data analysis, and building practical software solutions.
 
+- 🔭 Currently studying Data and Computational Science @ FHGR
+- 💼 Working as an ICT System Administrator
+- 🌱 Learning more about programming, data science, automation, and reliable systems
+- 👯 Open to learning, collaborating, and improving my skills through projects
+- ⚡ Fun fact: I love listening to podcasts
 
 ## Connect with me
 
@@ -19,18 +22,17 @@
 
 ## Languages and Tools
 
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
 <img align="left" alt="PyCharm" width="26px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.png" />
 <img align="left" alt="IntelliJ IDEA" width="26px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" />
 
 <br />
- 
-[twitter]: https://twitter.com/larscools
+
 [youtube]: https://www.youtube.com/channel/UCr7wsObK-zBzngwvZ3MlxWw
 [instagram]: https://instagram.com/larscools14
 [linkedin]: https://linkedin.com/in/larscools
