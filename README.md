@@ -1,38 +1,30 @@
-### Hi there, I'm Lars Cools - aka [larscoo] 👋
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/hero.svg"><img src="assets/light/hero.svg" width="100%" alt="Hi, I'm Lars: ICT System Administrator and Data and Computational Science student at FH Graubünden"></picture>
 
-## ICT System Administrator & Data and Computational Science Student
+<p align="center">
+<a href="https://linkedin.com/in/larscools"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/l-linkedin.svg"><img src="assets/light/l-linkedin.svg" height="40" alt="LinkedIn"></picture></a>
+<a href="https://github.com/larscoo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/l-github.svg"><img src="assets/light/l-github.svg" height="40" alt="GitHub"></picture></a>
+<a href="https://www.youtube.com/channel/UCr7wsObK-zBzngwvZ3MlxWw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/l-youtube.svg"><img src="assets/light/l-youtube.svg" height="40" alt="YouTube"></picture></a>
+<a href="https://instagram.com/larscools14"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/l-instagram.svg"><img src="assets/light/l-instagram.svg" height="40" alt="Instagram"></picture></a>
+</p>
 
-I'm an ICT System Administrator and currently studying Data and Computational Science at FHGR.  
-I’m interested in IT infrastructure, automation, data analysis, and building practical software solutions.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s01.svg"><img src="assets/light/s01.svg" width="100%" alt="About me"></picture>
 
-- 🔭 Currently studying Data and Computational Science @ FHGR
-- 💼 Working as an ICT System Administrator
-- 🌱 Learning more about programming, data science, automation, and reliable systems
-- 👯 Open to learning, collaborating, and improving my skills through projects
-- ⚡ Fun fact: I love listening to podcasts
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/a1.svg"><img src="assets/light/a1.svg" width="32%" alt="System administrator"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/a2.svg"><img src="assets/light/a2.svg" width="32%" alt="Data scientist in training"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/a3.svg"><img src="assets/light/a3.svg" width="32%" alt="Practical builder"></picture>
+</p>
+<br>
 
-## Connect with me
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s02.svg"><img src="assets/light/s02.svg" width="100%" alt="Featured projects"></picture>
 
-[<img align="left" alt="larscools | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="larscools14 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="larscools | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+<p align="center">
+<a href="https://github.com/larscoo/ShelfOps"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/p1.svg"><img src="assets/light/p1.svg" width="32%" alt="ShelfOps"></picture></a>
+<a href="https://github.com/larscoo/Strava-to-Notion"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/p2.svg"><img src="assets/light/p2.svg" width="32%" alt="Strava to Notion"></picture></a>
+<a href="https://github.com/larscoo/DL-Swisstopo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/p3.svg"><img src="assets/light/p3.svg" width="32%" alt="DL Swisstopo"></picture></a>
+</p>
+<br>
 
-<br />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg"><img src="assets/light/s03.svg" width="100%" alt="Tools I work with"></picture>
 
-## Languages and Tools
-
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
-<img align="left" alt="PyCharm" width="26px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.png" />
-<img align="left" alt="IntelliJ IDEA" width="26px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" />
-
-<br />
-
-[youtube]: https://www.youtube.com/channel/UCr7wsObK-zBzngwvZ3MlxWw
-[instagram]: https://instagram.com/larscools14
-[linkedin]: https://linkedin.com/in/larscools
-[larscoo]: https://github.com/larscoo
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg"><img src="assets/light/stack.svg" width="100%" alt="Python, Flask, SQL, Pandas, PyTorch, Linux, Docker, Kubernetes, Terraform, PostgreSQL, Prometheus, Grafana, Git and development tools"></picture>
